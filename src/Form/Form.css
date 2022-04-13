@@ -1,0 +1,44 @@
+.form{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    
+}
+.total{
+    background-color: rgb(35, 121, 136);
+    margin-left: 30rem;
+    margin-right: 30rem;
+    height: 20rem;
+    border-radius: 1.4rem;
+ 
+    
+}
+.top{
+    margin-top: 5rem;
+}
+.block{
+    margin-left: 5rem;
+    text-align: center;
+    width:5rem;
+    border-radius: 0.5rem;
+    height: 2rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.block:hover{
+    background-color: rgb(113, 91, 238);
+}
+.showDetails{
+    font-size: 1.5rem;
+    background-color: darkgoldenrod;
+    justify-content: space-evenly;
+    display: flex;
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+}
+.error{
+    background-color: rgba(159, 236, 96, 0.329);
+    text-align: center;
+    font-size: 2rem;
+}
